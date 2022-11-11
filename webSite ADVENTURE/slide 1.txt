@@ -1,0 +1,20 @@
+   <!-- Slide 1 -->
+        <div class="slide slide--1">
+          <div class="box">
+            <img src="./img/img-3.jpg" alt="" />
+            <div class="box--text">
+              <h6>Lorem ipsum dolor sit.</h6>
+              <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro
+                aut repudiandae inventore nisi minima laudantium
+              </p>
+            </div>
+
+            <div class="box-icon">
+              <img src="/img/camping.png" alt="Camping" />
+              <img src="/img/kayaking.png" alt="kayaking" />
+              <img src="/img/mountain-camping.png" alt="Camping in Mountain" />
+            </div>
+          </div>
+        </div>
+        <!-- end -->
